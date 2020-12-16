@@ -1,0 +1,66 @@
+li {
+	font-size : 16px;
+}
+
+i {
+	font-size: 60px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	font-family: Arial;
+	font-style: italic;
+	margin: 0px 0px 0px 0px;
+	font-size: 16px;
+	color : #8a8986;
+}
+
+.work-paragraph {
+	color : #7592bf;
+	margin: 0px 0px 0px 0px;
+	font-size: 24px;
+	text-align: left;
+}
+
+.intro-line {
+	font-size: 16px;
+}
+.col-md-6 {
+	display: flex
+	border-style: solid;
+  	border-width: 5px;
+}
+
+.tech-stack-paragraph {
+	font-size: 20px;
+	text-align: center;
+}
+
+.git-icon {
+	font-size: 15px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-bar {
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+

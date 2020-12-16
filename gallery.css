@@ -1,0 +1,40 @@
+.gallery-font {
+	font-size: 24px;
+	text-align :center;
+}
+
+.photo-header {
+	font-size: 44px;
+	text-align: center;
+	font-family: Cabin,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    color: #000;
+}
+
+.japan {
+	height: 50em;
+}
+
+.chiangmai {
+	height: 50em;
+}
+
+.europe {
+	height: 50em;
+}
+
+h1 {
+	text-align :center;
+}
+
+ul {
+	display: inline;
+	padding: 0px 0px 0px 0px;
+}
+
+h3 {
+	color :white;
+}
